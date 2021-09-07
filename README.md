@@ -1,4 +1,5 @@
 # Suma de dos numeros
+En parejas, por: Gabriela Cola y Eddy Hipo
 ### Trabajo en clase
 Ejercicio 3 del manual de Android.
 ## Demo:
